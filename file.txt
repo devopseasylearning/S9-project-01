@@ -1,0 +1,5 @@
+configmap#
+secret#
+service
+persistencevolumeclaim#
+deployment
